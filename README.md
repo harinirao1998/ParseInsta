@@ -2,7 +2,7 @@
 
 # Project 3 - *ParseInsta*
 
-**ParseInsta* is a photo sharing app similar to Instagram but using Parse as its backend.
+**ParseInsta** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **15** hours spent in total
 
@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/harinirao1998/ParseInsta/blob/main/signup%26post.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough' />
+<img src='https://github.com/harinirao1998/ParseInsta/blob/main/login%26persist.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
