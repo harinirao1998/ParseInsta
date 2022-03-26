@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ParseInsta</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">Yp33V4HuoX2AZZReUXTfqghUKrOToqZbwIVCrRCZ</string>
+    <string name="back4app_client_key">6Q4nlmErAyenLf3DkQqiD7si87SAvhuonsYNVCiy</string>
+</resources>
